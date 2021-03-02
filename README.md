@@ -9,7 +9,7 @@
 
 [Ejercicio limpieza 01](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza_01.ipynb)
 
-[Ejercicio liimpieza 02](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza_02.ipynb)
+[Ejercicio limpieza 02](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza_02.ipynb)
 
 ## FASE II
 
