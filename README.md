@@ -7,7 +7,9 @@
 
 [Ejercico de Python](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ejercicios%20de%20python.ipynb)
 
-[Limpieza base de datos](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Limpieza.ipynb)
+[Ejercicio limpieza 01](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza_01.ipynb)
+
+[Ejercicio liimpieza 02](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza_01.ipynb)
 
 ## FASE II
 
