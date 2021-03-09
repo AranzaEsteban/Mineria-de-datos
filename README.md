@@ -11,6 +11,8 @@
 
 [Ejercicio limpieza(base 2) 01](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza(base2)_01.ipynb)
 
+[Avance PIA]()
+
 ## FASE II
 
 ## FASE III
