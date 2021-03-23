@@ -18,7 +18,7 @@
 
 [Ejemplos_mineria](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ejemplos_miner%C3%ADa.ipynb)
 
-[Resultados kahoot]()
+[Resultados kahoot](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Resulltados%20kahoot%20visualización.pdf)
 
 
 ## FASE III
