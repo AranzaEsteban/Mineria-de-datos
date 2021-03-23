@@ -14,5 +14,11 @@
 [Avance PIA](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Avance_PIA_Equipo1%20(1).ipynb)
 
 ## FASE II
+[Presentación visualización de datos](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Presentación_Visualización_01.pdf)
+
+[Ejemplos_mineria](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ejemplos_miner%C3%ADa.ipynb)
+
+[Resultados kahoot]()
+
 
 ## FASE III
