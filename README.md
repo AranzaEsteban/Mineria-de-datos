@@ -20,7 +20,7 @@
 
 [Resultados kahoot](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Resultados%20kahoot%20visualización.pdf)
 
-[Segundo avance del PIA](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/AvancePIA_II_Grupo03_01.%20.ipynb)
+[Segundo avance del PIA](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/AvancePIA_II_Grupo3_01.ipynb)
 
 [Visualización](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Visualización1%20.ipynb)
 
