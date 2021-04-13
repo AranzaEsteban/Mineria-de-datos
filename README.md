@@ -25,7 +25,7 @@
 [Visualización](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Visualización1%20.ipynb)
 
 
-[Mapa Mental II]()
+[Mapa Mental II](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Tecnicas%20de%20mineria%20de%20datos.pdf)
 
 
 ## FASE III
