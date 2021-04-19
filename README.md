@@ -22,7 +22,7 @@
 
 [Segundo avance del PIA](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/AvancePIA_II_Grupo3_01.ipynb)
 
-[Visualización](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Visualización1%20.ipynb)
+[Segundo avance del PIA corregido](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/AvancePIA_II_Grupo3_01_Corregido.ipynb)
 
 
 [Mapa Mental II](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Tecnicas%20de%20mineria%20de%20datos.pdf)
