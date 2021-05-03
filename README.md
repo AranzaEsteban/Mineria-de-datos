@@ -27,5 +27,6 @@
 
 [Mapa Mental II](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Tecnicas%20de%20mineria%20de%20datos.pdf)
 
+[Poster](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Avance%20poster%20pt%202.pdf)
 
 ## FASE III
